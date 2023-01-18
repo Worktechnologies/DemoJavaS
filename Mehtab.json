@@ -3,13 +3,13 @@
     [
         {
    
-            "ID": 1,
+            "id": 1,
             "Title" : "kindyimage",
             "summary": "group of kids playing in the garden area" ,
             "image" : "images/photo1.jpg"
     },
     {
-             "ID": 2,
+             "id": 2,
              "Title" :  "kindyimage2",
              "summary": "kids playing in the garden area" ,
              "image" : "images/photo2.jpg"

@@ -12,9 +12,11 @@ formElement.addEventListener('submit',function(event)
     {
         const TitleElement=document.querySelector("h4");
         const summaryElement=document.querySelector("p");
+        const imageElement=document.querySelector("img");
 
         TitleElement.innerHTML=image.Title
         summaryElement.innerHTML=image.summary
+        imageElement.src = image.image
     });
     });
   
